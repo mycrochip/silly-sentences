@@ -1,2 +1,4 @@
 # silly-sentences
 A sentence generator
+
+The grammar of natural languages such as English exhibits a recursive structure. This structure can be expressed in syntax rules written in the format known as BNF (Bachus-Naur Form, named after the people who invented it). You have probably seen BNF used to specify the syntax of programming languages. While BNF is ordinarily used as a guide for parsing (that is, determining whether and how a given string follows the syntax rules), it can also be used as a guide for generating strings that follow the syntax rules. An example of this can be found in the sample program SimpleRandomSentences. In this example, each syntax rule -- except for the most basic ones -- is represented by a method that generates strings that follow that rule. Where one syntax rule refers to another rule, the method that represents the first rule calls the method that represents the second rule.
