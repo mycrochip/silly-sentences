@@ -106,7 +106,7 @@ public class Silly_Sentences {
 		return item;
 	}
 	
-}// end class Lab3A
+}// end class Silly_Sentences
 
 
 //Some nice ones :)  Miss America is bald. every woman is big. the unicorn is pretty. Jane looks for Jane.  Richard Nixon jumps and the man sees Richard Nixon.
